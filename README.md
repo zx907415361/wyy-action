@@ -3,7 +3,7 @@
 
 ## Github Actions 部署指南
 
-### 一、Fork 此仓库
+### 一、Fork 此仓库 !
 ![image-20200727142541791](https://i.loli.net/2020/07/27/jK5H8FLvt7aBeYX.png)
 
 
